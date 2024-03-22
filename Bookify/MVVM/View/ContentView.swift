@@ -77,6 +77,7 @@ struct DetailView: View {
             Spacer()
         }
         .navigationBarTitleDisplayMode(.large)
+        .navigationTitle("Book Details")
     }
 }
 //end
